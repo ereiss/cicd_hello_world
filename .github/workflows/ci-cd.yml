@@ -9,7 +9,7 @@ on:
       - master
 
 jobs:
-  build2:
+  build_3925_2:
     runs-on: ubuntu-latest
 
     steps:
